@@ -1,14 +1,10 @@
-## Getting Started
+## Small Java Tasks
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repo shall serve as an overview of different small tasks which I encountered while learning JAVA.
+Each class can be seen as one task and will be executed in the App.java main method.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Some task example are:
+- Sort algorithm
+- Search algorithm
+- Linear datastructure
+- Recursive approach
