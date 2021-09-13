@@ -23,3 +23,7 @@ For the linear datastructe, two classes are needed. The first creates the list (
 
 This task shall evaluate if the input number is a prime number or not (PrimeNumberTest.java).
 
+## Weekday calculator
+
+This class shall show the corresponding weekdays depending on the input date.
+
