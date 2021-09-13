@@ -27,3 +27,6 @@ This task shall evaluate if the input number is a prime number or not (PrimeNumb
 
 This class shall show the corresponding weekdays depending on the input date.
 
+## String comparator
+
+This class shall compare two Strings and return an integer of how many letters are identical. Those letters don't have to be in continous order.

@@ -3,6 +3,14 @@ public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
 
+        // Tasj Number 4
+        // Recursive function to count how many letters within a String are identical.
+        // The tricky part is, the identical letters do not have to be in continous order.
+        String one = "ABCDRTOPFA";
+        String two = "ACERTEOTJA";
+        int identicalLetters = StringRecursive.LCSmemo(one, two);
+        // Shall print 6 for the identical letters : A C R T O A
+        System.out.println(identicalLetters);
 
         //// Task Number 3
         //// variables can be changed for testing purpose
