@@ -8,3 +8,18 @@ Some task example are:
 - Search algorithm
 - Linear datastructure
 - Recursive approach
+
+I know that such tasks are already described in java library and can be imported and used very easily.
+But at the beginning, before using suchs libraries, I want to make sure that those topics are completely comprehensive to me
+to adapt and use suchs methods properly.
+
+
+## Linked List
+
+For the linear datastructe, two classes are needed. The first creates the list (LinkedList.java) and the second describes the node
+(LinkedNode.java).
+
+## Prime Number test
+
+This task shall evaluate if the input number is a prime number or not (PrimeNumberTest.java).
+
